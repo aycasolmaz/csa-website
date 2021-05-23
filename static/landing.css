@@ -1,0 +1,134 @@
+.logo {
+    position: absolute;
+    width: 265px;
+    height: 240px;
+    left: 10px;
+    top: 10px;
+    
+    background: url(/static/rhett.png);
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 565px;
+    height: 40px;
+    left: 826px;
+    top: 39px;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+
+    justify-content: space-between;   
+}
+
+.banner h1 {
+    position: absolute;
+    width: 233px;
+    height: 90px;
+    left: 342px;
+    top: 270px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.banner p {
+
+    position: absolute;
+    width: 724px;
+    height: 84px;
+    left: 352px;
+    top: 390px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.banner button {
+    position: absolute;
+    width: 407px;
+    height: 72px;
+    left: 517px;
+    top: 510px;
+
+    background-repeat: repeat;
+    background: transparent;
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    border-radius: 40px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.line {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 60px;
+    top: 725px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.text-1 {
+
+    position: absolute;
+    width: 469px;
+    height: 128px;
+    left: 60px;
+    top: 676px;
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.mentorship {
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 64px;
+    top: 795px;
+
+    background: url(/static/mentorship\ \(2\).png);
+    background-repeat: no-repeat;
+}
+
