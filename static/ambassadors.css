@@ -1,0 +1,326 @@
+.logo {
+    position: absolute;
+    width: 265px;
+    height: 240px;
+    left: 10px;
+    top: 0px;
+    
+    background: url(/static/rhett.png);
+    background-repeat: no-repeat;
+  }
+  
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+  
+    position: absolute;
+    width: 565px;
+    height: 40px;
+    left: 826px;
+    top: 39px;
+  
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+  
+    color: #000000;
+  
+    justify-content: space-between;   
+  }
+  
+  .banner h1 {
+    position: absolute;
+    width: 296px;
+    height: 90px;
+    left: 572px;
+    top: 325px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    
+    color: #FFFFFF;
+  }
+  
+  .banner p {
+  
+    position: absolute;
+    width: 1500px;
+    height: 150px;
+    left: 352px;
+    top: 10px;
+  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+  
+    color: rgba(255, 255, 255, 0.8);
+  
+  }
+
+.red-line {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 91px;
+    top: 700px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.red-line p {
+    position: absolute;
+    width: 800px;
+    height: 0px;
+    left: 0px;
+    top: -35px;
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 91px;
+    top: 920px;
+
+    border-radius: 125px;
+}
+
+.kristen {
+    position: absolute;
+    width: 250px;
+    height: 307px;
+    left: 91px;
+    top: 863px;
+    
+}
+
+.circle-2 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 920px;
+
+    border-radius: 125px;
+}
+
+.jack {
+    position: absolute;
+    width: 250px;
+    height: 307px;
+    left: 411px;
+    top: 863px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 731px;
+    top: 920px;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1051px;
+    top: 920px;
+}
+
+.circle-5 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 82px;
+    top: 1350px;
+}
+
+.circle-6 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 1350px; 
+}
+
+.circle-7 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 731px;
+    top: 1350px;
+}
+
+.circle-8 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1051px;
+    top: 1350px;
+}
+
+.red-line-2 {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 91px;
+    top: 1750px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.red-line-2 p {
+    position: absolute;
+    width: 668px;
+    height: 90px;
+    left: 0px;
+    top: -35px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.circle-9 {
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 91px;
+    top: 1970px;
+
+}
+
+.circle-10 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 1970px;
+}
+
+.circle-11 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 731px;
+    top: 1970px;
+}
+
+.circle-12 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1051px;
+    top: 1970px;
+}
+
+.circle-13 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 91px;
+    top: 2400px;
+}
+
+.circle-14 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 2400px;
+}
+
+.circle-15 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 731px;
+    top: 2400px;
+}
+
+.circle-16 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1051px;
+    top: 2400px;
+}
+
+.lower-banner {
+    position: absolute;
+    width: 1312px;
+    height: 343px;
+    left: 63px;
+    top: 2800px;
+
+    background: url(/static/Untitled\ design-29\ 1.png);
+    border-radius: 4px;
+}
+
+.lower-banner p {
+    position: absolute;
+    width: 1030px;
+    height: 100px;
+    left: 117px;
+    top: 95px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.lower-banner button {
+    position: absolute;
+    width: 330px;
+    height: 72px;
+    left: 491px;
+    top: 220px;
+
+    text-align: center;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 40px;
+    background-color: transparent;
+}

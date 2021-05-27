@@ -1,0 +1,247 @@
+.logo {
+    position: absolute;
+    width: 265px;
+    height: 240px;
+    left: 10px;
+    top: 0px;
+    
+    background: url(/static/rhett.png);
+    background-repeat: no-repeat;
+  }
+  
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+  
+    position: absolute;
+    width: 565px;
+    height: 40px;
+    left: 826px;
+    top: 39px;
+  
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+  
+    color: #000000;
+  
+    justify-content: space-between;   
+  }
+  
+  .banner h1 {
+    position: absolute;
+    width: 355px;
+    height: 90px;
+    left: 542px;
+    top: 311px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    
+    color: #FFFFFF;
+  }
+  
+.first-line {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    
+    position: absolute;
+    width: 1226px;
+    height: 128px;
+    left: 400px;
+    top: 707px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.second-line {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    
+    position: absolute;
+    width: 1226px;
+    height: 128px;
+    left: 425px;
+    top: 750px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #EF232D;
+
+}
+
+.red-line {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 121px;
+    top: 884px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.red-line p {
+    position: absolute;
+    width: 716px;
+    height: 90px;
+    left: 0px;
+    top: -35px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.email {
+    position: absolute;
+    width: 74px;
+    height: 26px;
+    left: 130px;
+    top: 1202px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#email {
+    position: absolute;
+    width: 857px;
+    height: 71px;
+    left: 130px;
+    top: 1255px;
+    font-size: 35px;
+
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.name {
+    position: absolute;
+    width: 74px;
+    height: 26px;
+    left: 130px;
+    top: 1039px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#name {
+    position: absolute;
+    width: 857px;
+    height: 71px;
+    left: 130px;
+    top: 1092px;
+    font-size: 35px;
+
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.website {
+    position: absolute;
+    width: 106px;
+    height: 26px;
+    left: 130px;
+    top: 1378px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#website {
+    position: absolute;
+    width: 857px;
+    height: 71px;
+    left: 130px;
+    top: 1431px;
+    font-size: 35px;
+
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.message {
+    position: absolute;
+    width: 118px;
+    height: 26px;
+    left: 130px;
+    top: 1554px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+#message {
+    position: absolute;
+    width: 857px;
+    height: 351px;
+    left: 130px;
+    top: 1607px;
+    font-size: 20px;
+
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    border-radius: 4px;
+}

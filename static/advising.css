@@ -1,0 +1,162 @@
+.logo {
+    position: absolute;
+    width: 265px;
+    height: 240px;
+    left: 10px;
+    top: 0px;
+    
+    background: url(/static/rhett.png);
+    background-repeat: no-repeat;
+  }
+  
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+  
+    position: absolute;
+    width: 565px;
+    height: 40px;
+    left: 826px;
+    top: 39px;
+  
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+  
+    color: #000000;
+  
+    justify-content: space-between;   
+  }
+  
+  .banner h1 {
+    position: absolute;
+    width: 355px;
+    height: 90px;
+    left: 542px;
+    top: 311px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    
+    color: #FFFFFF;
+  }
+  
+  .red-line {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 121px;
+    top: 725px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.red-line p {
+    position: absolute;
+    width: 869px;
+    height: 90px;
+    left: 0px;
+    top: -35px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 91px;
+    top: 920px;
+
+    border-radius: 125px;
+}
+
+.jacob {
+    position: absolute;
+    width: 250px;
+    height: 307px;
+    left: 91px;
+    top: 863px;
+    
+}
+
+.circle-2 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 920px;
+
+    border-radius: 125px;
+}
+
+.dora {
+    position: absolute;
+    width: 250px;
+    height: 307px;
+    left: 411px;
+    top: 863px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 731px;
+    top: 920px;
+}
+
+.jess {
+    position: absolute;
+    width: 250px;
+    height: 307px;
+    left: 731px;
+    top: 863px;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 82px;
+    top: 1350px;
+}
+
+.snyder {
+    position: absolute;
+    width: 250px;
+    height: 270px;
+    left: 82px;
+    top: 1329px;
+}
+
+.circle-5 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 411px;
+    top: 1350px; 
+}
+
+.erin {
+    position: absolute;
+    width: 250px;
+    height: 290px;
+    left: 411px;
+    top: 1310px; 
+}
