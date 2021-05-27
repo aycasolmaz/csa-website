@@ -95,6 +95,40 @@
     
 }
 
+.jacob-p {
+  position: absolute;
+width: 350px;
+height: 26px;
+left: 50px;
+top: 1150px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #EF232D;
+}
+
+.jacob-desc {
+  position: absolute;
+width: 350px;
+height: 76px;
+left: 50px;
+top: 1200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
 .circle-2 {
     position: absolute;
     width: 250px;
@@ -113,6 +147,40 @@
     top: 863px;
 }
 
+.dora-p {
+  position: absolute;
+width: 350px;
+height: 26px;
+left: 350px;
+top: 1150px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #EF232D;
+}
+
+.dora-desc {
+  position: absolute;
+width: 350px;
+height: 118px;
+left: 350px;
+top: 1200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
 .circle-3 {
     position: absolute;
     width: 250px;
@@ -127,6 +195,40 @@
     height: 307px;
     left: 731px;
     top: 863px;
+}
+
+.jess-p {
+  position: absolute;
+width: 350px;
+height: 26px;
+left: 700px;
+top: 1150px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #EF232D;
+}
+
+.jess-desc {
+  position: absolute;
+width: 350px;
+height: 118px;
+left: 700px;
+top: 1200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
 }
 
 .circle-4 {
@@ -145,6 +247,40 @@
     top: 1329px;
 }
 
+.snyder-p {
+  position: absolute;
+width: 350px;
+height: 26px;
+left: 50px;
+top: 1600px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #EF232D;
+}
+
+.snyder-desc {
+  position: absolute;
+width: 350px;
+height: 118px;
+left: 50px;
+top: 1650px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
 .circle-5 {
     position: absolute;
     width: 250px;
@@ -161,6 +297,39 @@
     top: 1310px; 
 }
 
+.erin-p {
+  position: absolute;
+width: 350px;
+height: 26px;
+left: 350px;
+top: 1600px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #EF232D;
+}
+
+.erin-desc {
+  position: absolute;
+width: 350px;
+height: 118px;
+left: 350px;
+top: 1650px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
 
 .dropbtn {
     color: black;

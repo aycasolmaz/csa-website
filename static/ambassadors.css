@@ -115,6 +115,40 @@
     
 }
 
+.kristen-p {
+    position: absolute;
+    width: 197px;
+    height: 26px;
+    left: 120px;
+    top: 1160px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.kristen-desc {
+    position: absolute;
+    width: 197px;
+    height: 26px;
+    left: 120px;
+    top: 1190px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #EF232D;
+}
+
 .circle-2 {
     position: absolute;
     width: 250px;
@@ -131,6 +165,40 @@
     height: 307px;
     left: 411px;
     top: 863px;
+}
+
+.jack-p {
+    position: absolute;
+width: 197px;
+height: 26px;
+left: 437px;
+top: 1160px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+}
+
+.jack-desc{
+    position: absolute;
+width: 197px;
+height: 26px;
+left: 437px;
+top: 1190px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #EF232D;
 }
 
 .circle-3 {
