@@ -290,6 +290,57 @@
   opacity: 1;
   text-align: center;
 }
+
+
+.dropbtn {
+  color: black;
+  padding: 0px;
+  font-size: 16px;
+  border: none;
+
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+
+  justify-content: space-between;   
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #EF232D;}
 .v11_77 {
   width: 49px;
   color: rgba(239,35,45,1);
@@ -1385,7 +1436,7 @@
 .v50_90 {
   width: 400px;
   height: 400px;
-  background: linear-gradient(rgba(239,35,45,1), rgba(0,0,0,1));
+
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -1399,7 +1450,7 @@
 .v50_91 {
   width: 400px;
   height: 400px;
-  background: url("../images/v50_91.png");
+  background: url("/static/mentorship\ program.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1482,7 +1533,6 @@
 .v50_97 {
   width: 400px;
   height: 400px;
-  background: linear-gradient(rgba(239,35,45,1), rgba(0,0,0,1));
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -1496,7 +1546,7 @@
 .v50_98 {
   width: 400px;
   height: 400px;
-  background: url("../images/v50_98.png");
+  background: url("/static/mentorship\ program.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1579,7 +1629,6 @@
 .v50_104 {
   width: 400px;
   height: 400px;
-  background: linear-gradient(rgba(239,35,45,1), rgba(0,0,0,1));
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -1593,7 +1642,7 @@
 .v50_105 {
   width: 400px;
   height: 400px;
-  background: url("../images/v50_105.png");
+  background: url("/static/mentorship\ program.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
