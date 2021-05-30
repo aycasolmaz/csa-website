@@ -5,7 +5,7 @@
   left: 10px;
   top: 0px;
   
-  background: url(/rhett.png);
+  background: url(rhett.png);
   background-repeat: no-repeat;
 }
 
@@ -1546,7 +1546,7 @@
 .v50_98 {
   width: 400px;
   height: 400px;
-  background: url("/mentorship\ program.png");
+  background: url("mentorship\ program.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1642,7 +1642,7 @@
 .v50_105 {
   width: 400px;
   height: 400px;
-  background: url("/mentorship\ program.png");
+  background: url("mentorship\ program.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

@@ -11,7 +11,7 @@ body {
   left: 10px;
   top: 0px;
   
-  background: url(/rhett.png);
+  background: url(rhett.png);
   background-repeat: no-repeat;
 }
 
@@ -76,7 +76,7 @@ body {
 .v126_315 {
   width: 168px;
   height: 51px;
-  background: url("../images/v126_315.png");
+  background: url("v126_315.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -115,7 +115,7 @@ body {
 .v126_316 {
   width: 198px;
   height: 51px;
-  background: url("../images/v126_316.png");
+  background: url("v126_316.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -154,7 +154,7 @@ body {
 .v126_317 {
   width: 108px;
   height: 51px;
-  background: url("../images/v126_317.png");
+  background: url("v126_317.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -193,7 +193,7 @@ body {
 .v126_318 {
   width: 165px;
   height: 51px;
-  background: url("../images/v126_318.png");
+  background: url("v126_318.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -232,7 +232,7 @@ body {
 .v126_319 {
   width: 115px;
   height: 51px;
-  background: url("../images/v126_319.png");
+  background: url("v126_319.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -271,7 +271,7 @@ body {
 .v126_312 {
   width: 716px;
   height: 105px;
-  background: url("../images/v126_312.png");
+  background: url("v126_312.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -305,7 +305,7 @@ body {
 .v126_320 {
   width: 247px;
   height: 72px;
-  background: url("../images/v126_320.png");
+  background: url("v126_320.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -339,7 +339,7 @@ body {
 .v126_321 {
   width: 297px;
   height: 72px;
-  background: url("../images/v126_321.png");
+  background: url("v126_321.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -373,7 +373,7 @@ body {
 .v126_322 {
   width: 358px;
   height: 72px;
-  background: url("../images/v126_322.png");
+  background: url("v126_322.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -407,7 +407,7 @@ body {
 .v126_323 {
   width: 358px;
   height: 72px;
-  background: url("../images/v126_323.png");
+  background: url("v126_323.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -441,7 +441,7 @@ body {
 .v126_324 {
   width: 358px;
   height: 72px;
-  background: url("../images/v126_324.png");
+  background: url("v126_324.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -475,7 +475,7 @@ body {
 .v126_325 {
   width: 358px;
   height: 72px;
-  background: url("../images/v126_325.png");
+  background: url("v126_325.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -612,7 +612,7 @@ body {
 .v73_5 {
   width: 400px;
   height: 400px;
-  background: url("/Rails.png");
+  background: url("Rails.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -626,7 +626,7 @@ body {
 .v73_11 {
   width: 400px;
   height: 400px;
-  background: url("/Rails.png");
+  background: url("Rails.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -656,7 +656,7 @@ body {
 .v77_26 {
   width: 400px;
   height: 400px;
-  background: url("/cs\ connect\ bu.png");
+  background: url("cs\ connect\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -699,7 +699,7 @@ body {
 .v77_32 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ gwc.png");
+  background: url("bu\ gwc.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -742,7 +742,7 @@ body {
 .v78_2 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ mic.png");
+  background: url("bu\ mic.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -785,7 +785,7 @@ body {
 .v78_8 {
   width: 400px;
   height: 400px;
-  background: url("/BU\ HPC.png");
+  background: url("BU\ HPC.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -828,7 +828,7 @@ body {
 .v78_14 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ ar\ vr.png");
+  background: url("bu\ ar\ vr.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -871,7 +871,7 @@ body {
 .v78_21 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ dsc.png");
+  background: url("bu\ dsc.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -914,7 +914,7 @@ body {
 .v77_21 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ gaming.png");
+  background: url("bu\ gaming.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -957,7 +957,7 @@ body {
 .v78_30 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ spark.png");
+  background: url("bu\ spark.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1000,7 +1000,7 @@ body {
 .v78_36 {
   width: 400px;
   height: 400px;
-  background: url("/boston\ hacks.png");
+  background: url("boston\ hacks.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1043,7 +1043,7 @@ body {
 .v78_41 {
   width: 400px;
   height: 400px;
-  background: url("/h4i\ bu.png");
+  background: url("h4i\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1086,7 +1086,7 @@ body {
 .v78_53 {
   width: 400px;
   height: 400px;
-  background: url("/acm\ @\ bu.png");
+  background: url("acm\ @\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1129,7 +1129,7 @@ body {
 .v78_58 {
   width: 400px;
   height: 400px;
-  background: url("/acm-w.png");
+  background: url("acm-w.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1172,7 +1172,7 @@ body {
 .v78_65 {
   width: 400px;
   height: 400px;
-  background: url("/upe.png");
+  background: url("upe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1215,7 +1215,7 @@ body {
 .v78_71 {
   width: 400px;
   height: 400px;
-  background: url("/swe.png");
+  background: url("swe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1229,7 +1229,7 @@ body {
 .v126_305 {
   width: 400px;
   height: 400px;
-  background: url("/swe.png");
+  background: url("swe.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1242,7 +1242,7 @@ body {
 .v78_76 {
   width: 400px;
   height: 400px;
-  background: url("/swe.png");
+  background: url("swe.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1272,7 +1272,7 @@ body {
 .v78_79 {
   width: 400px;
   height: 400px;
-  background: url("/bu\ shpe.png");
+  background: url("bu\ shpe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1315,7 +1315,7 @@ body {
 .v78_86 {
   width: 400px;
   height: 400px;
-  background: url("/sbe\ bu.png");
+  background: url("sbe\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1358,7 +1358,7 @@ body {
 .v78_91 {
   width: 400px;
   height: 400px;
-  background: url("/sase.png");
+  background: url("sase.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1401,7 +1401,7 @@ body {
 .v78_97 {
   width: 400px;
   height: 400px;
-  background: url("/csasa\ bu.png");
+  background: url("csasa\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1444,7 +1444,7 @@ body {
 .v77_2 {
   width: 400px;
   height: 400px;
-  background: url("/BURPG.png");
+  background: url("BURPG.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1487,7 +1487,7 @@ body {
 .v73_12 {
   width: 400px;
   height: 400px;
-  background: url("/BDR.png");
+  background: url("BDR.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1531,7 +1531,7 @@ body {
 .v73_19 {
   width: 400px;
   height: 400px;
-  background: url("/terrier\ motorsport.png");
+  background: url("terrier\ motorsport.png");
   opacity: 1;
   position: relative;
   top: 0px;
