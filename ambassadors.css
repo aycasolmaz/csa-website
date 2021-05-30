@@ -5,7 +5,7 @@
     left: 10px;
     top: 0px;
     
-    background: url(/static/rhett.png);
+    background: url(/rhett.png);
     background-repeat: no-repeat;
   }
   
@@ -349,7 +349,7 @@ color: #EF232D;
     left: 63px;
     top: 2800px;
 
-    background: url(/static/ambassadorbanner.png);
+    background: url(/ambassadorbanner.png);
     border-radius: 4px;
 }
 

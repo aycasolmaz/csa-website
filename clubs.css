@@ -11,7 +11,7 @@ body {
   left: 10px;
   top: 0px;
   
-  background: url(/static/rhett.png);
+  background: url(/rhett.png);
   background-repeat: no-repeat;
 }
 
@@ -612,7 +612,7 @@ body {
 .v73_5 {
   width: 400px;
   height: 400px;
-  background: url("/static/Rails.png");
+  background: url("/Rails.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -626,7 +626,7 @@ body {
 .v73_11 {
   width: 400px;
   height: 400px;
-  background: url("/static/Rails.png");
+  background: url("/Rails.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -656,7 +656,7 @@ body {
 .v77_26 {
   width: 400px;
   height: 400px;
-  background: url("/static/cs\ connect\ bu.png");
+  background: url("/cs\ connect\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -699,7 +699,7 @@ body {
 .v77_32 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ gwc.png");
+  background: url("/bu\ gwc.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -742,7 +742,7 @@ body {
 .v78_2 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ mic.png");
+  background: url("/bu\ mic.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -785,7 +785,7 @@ body {
 .v78_8 {
   width: 400px;
   height: 400px;
-  background: url("/static/BU\ HPC.png");
+  background: url("/BU\ HPC.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -828,7 +828,7 @@ body {
 .v78_14 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ ar\ vr.png");
+  background: url("/bu\ ar\ vr.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -871,7 +871,7 @@ body {
 .v78_21 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ dsc.png");
+  background: url("/bu\ dsc.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -914,7 +914,7 @@ body {
 .v77_21 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ gaming.png");
+  background: url("/bu\ gaming.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -957,7 +957,7 @@ body {
 .v78_30 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ spark.png");
+  background: url("/bu\ spark.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1000,7 +1000,7 @@ body {
 .v78_36 {
   width: 400px;
   height: 400px;
-  background: url("/static/boston\ hacks.png");
+  background: url("/boston\ hacks.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1043,7 +1043,7 @@ body {
 .v78_41 {
   width: 400px;
   height: 400px;
-  background: url("/static/h4i\ bu.png");
+  background: url("/h4i\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1086,7 +1086,7 @@ body {
 .v78_53 {
   width: 400px;
   height: 400px;
-  background: url("/static/acm\ @\ bu.png");
+  background: url("/acm\ @\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1129,7 +1129,7 @@ body {
 .v78_58 {
   width: 400px;
   height: 400px;
-  background: url("/static/acm-w.png");
+  background: url("/acm-w.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1172,7 +1172,7 @@ body {
 .v78_65 {
   width: 400px;
   height: 400px;
-  background: url("/static/upe.png");
+  background: url("/upe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1215,7 +1215,7 @@ body {
 .v78_71 {
   width: 400px;
   height: 400px;
-  background: url("/static/swe.png");
+  background: url("/swe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1229,7 +1229,7 @@ body {
 .v126_305 {
   width: 400px;
   height: 400px;
-  background: url("/static/swe.png");
+  background: url("/swe.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1242,7 +1242,7 @@ body {
 .v78_76 {
   width: 400px;
   height: 400px;
-  background: url("/static/swe.png");
+  background: url("/swe.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1272,7 +1272,7 @@ body {
 .v78_79 {
   width: 400px;
   height: 400px;
-  background: url("/static/bu\ shpe.png");
+  background: url("/bu\ shpe.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1315,7 +1315,7 @@ body {
 .v78_86 {
   width: 400px;
   height: 400px;
-  background: url("/static/sbe\ bu.png");
+  background: url("/sbe\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1358,7 +1358,7 @@ body {
 .v78_91 {
   width: 400px;
   height: 400px;
-  background: url("/static/sase.png");
+  background: url("/sase.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1401,7 +1401,7 @@ body {
 .v78_97 {
   width: 400px;
   height: 400px;
-  background: url("/static/csasa\ bu.png");
+  background: url("/csasa\ bu.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1444,7 +1444,7 @@ body {
 .v77_2 {
   width: 400px;
   height: 400px;
-  background: url("/static/BURPG.png");
+  background: url("/BURPG.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1487,7 +1487,7 @@ body {
 .v73_12 {
   width: 400px;
   height: 400px;
-  background: url("/static/BDR.png");
+  background: url("/BDR.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1531,7 +1531,7 @@ body {
 .v73_19 {
   width: 400px;
   height: 400px;
-  background: url("/static/terrier\ motorsport.png");
+  background: url("/terrier\ motorsport.png");
   opacity: 1;
   position: relative;
   top: 0px;
